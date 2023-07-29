@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next.js, Redux, Socket.io**
 
-- 👨‍💻 All of my projects are available at [https://akash-me-portfolio-8db7e.web.app/](https://akash-me-portfolio-8db7e.web.app/)
+- 👨‍💻My personal website [https://akash-me-portfolio-8db7e.web.app/](https://akash-me-portfolio-8db7e.web.app/)
 
 - 💬 Ask me about **JavaScript, React, Node, Express, MongoDB**
 
