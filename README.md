@@ -1,3 +1,4 @@
+![logo](https://github.com/AkashRiaz/AkashRiaz/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm MD Akashuzzaman Riaz</h1>
 <h3 align="center">I am a self-motivated web developer who always keeps myself up to date with the latest technology.</h3>
 
